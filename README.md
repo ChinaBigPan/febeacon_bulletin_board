@@ -24,5 +24,5 @@
 
 | 个人译著 | 链接 |
 |:---:|---|
-| [image](/translated_book/d3forimpatient.jpg) | [链接](https://item.jd.com/69025312556.html) |
-| [image](/translated_book/learningGraphQL.jpg) | [链接](https://item.jd.com/12880168.html) |
+| ![image](/translated_book/d3forimpatient.jpg) | [链接](https://item.jd.com/69025312556.html) |
+| ![image](/translated_book/learningGraphQL.jpg) | [链接](https://item.jd.com/12880168.html) |
