@@ -1,7 +1,7 @@
 
 <div align="center">
     <img width="350" src="http://febeacon.com/images/febeacon_logo_2.png" /><br />
-    <a href="http://febeacon.com">大笑文档</a>
+    <h1><a href="http://febeacon.com">大笑文档</a></h1><br />
 </div>
 
 | Logo | 文档名称 | 描述 |
@@ -20,3 +20,9 @@
 | <img width="75" src="http://febeacon.com/vue-observe-visibility-docs-cn/images/logo.png" /> | [vue-observe-visibility](http://febeacon.com/ajv-docs-zh-cn/) | 检测元素在页面上变得可见或隐藏的时机（Vue 指令）。 |
 | <img width="75" src="http://febeacon.com/webpack-plugins-docs-cn/images/logo.png" /> | [Webpack 插件](http://febeacon.com/ajv-docs-zh-cn/) | 一些非官方 webpack 插件合集。 |
 | <img width="75" src="http://febeacon.com/yjs-docs-zh-cn/images/logo.png" /> | [Y.js](http://febeacon.com/yjs-docs-zh-cn/index.html) | Y.js 对共享数据进行强大抽象的 CRDT 框架。它是一种 CRDT 实现，将其内部数据暴露为共享类型(shared types)，非常适合做共享文档。 |
+
+
+| 个人译著 | 链接 |
+|:---:|---|
+| [image](/translated_book/d3forimpatient.jpg) | [链接](https://item.jd.com/69025312556.html) |
+| [image](/translated_book/learningGraphQL.jpg) | [链接](https://item.jd.com/12880168.html) |
