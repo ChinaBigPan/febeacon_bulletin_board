@@ -6,5 +6,5 @@
 
 | Logo | 文档名称 | 描述 |
 |:---:|:---:|---|
-| <img width="150" src="http://febeacon.com/ajv-docs-zh-cn/images/logo.png" /> | [Ajv](http://febeacon.com/ajv-docs-zh-cn/) | Node.js和浏览器中最快速的JSON Schema验证器。 |
+| <img width="75" src="http://febeacon.com/ajv-docs-zh-cn/images/logo.png" /> | [Ajv](http://febeacon.com/ajv-docs-zh-cn/) | Node.js和浏览器中最快速的JSON Schema验证器。 |
 
