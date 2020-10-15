@@ -34,8 +34,8 @@
 
 | 个人译著 | 链接 | 描述 |
 |:---:|---|---|
-| <img width="350" src="/translated_book/d3forimpatient.jpg" /> | [链接](https://item.jd.com/69025312556.html) | 为什么GraphQL是Ajax诞生以来创新性的数据获取技术？GraphQL通过为API提供查询语言和用以完成查询的运行状态，提供了对REST和特定页面服务架构的替代方案。借助这本书，Alex Banks和Eve Porcello为希望开始使用GraphQL的前端Web开发人员、后端工程师以及项目或产品经理提供了一条清晰的学习路径。 |
-| <img width="350" src="/translated_book/learningGraphQL.jpg" /> | [链接](https://item.jd.com/12880168.html) | 本书对D3进行了全面而简洁的介绍，涵盖了大部分主要功能，具体包括选择与绑定、事件、交互和动画、生成器、组件、布局、文件、数据加载、格式规范、数值的视觉映射、颜色、彩色比例尺和热力图、树形图和网状图，以及数组、统计和时间戳等辅助工具。本书致力于成为一站式资源整合点，为学习该框架的人员提供便利，涵盖了API文档及其他背景信息，如SVG、JavaScript、DOM，以及HTML canvas元素等。 |
+| <img width="350" src="/translated_book/learningGraphQL.jpg" /> | [链接](https://item.jd.com/69025312556.html) | 为什么GraphQL是Ajax诞生以来创新性的数据获取技术？GraphQL通过为API提供查询语言和用以完成查询的运行状态，提供了对REST和特定页面服务架构的替代方案。借助这本书，Alex Banks和Eve Porcello为希望开始使用GraphQL的前端Web开发人员、后端工程师以及项目或产品经理提供了一条清晰的学习路径。 |
+| <img width="350"  src="/translated_book/d3forimpatient.jpg"  /> | [链接](https://item.jd.com/12880168.html) | 本书对D3进行了全面而简洁的介绍，涵盖了大部分主要功能，具体包括选择与绑定、事件、交互和动画、生成器、组件、布局、文件、数据加载、格式规范、数值的视觉映射、颜色、彩色比例尺和热力图、树形图和网状图，以及数组、统计和时间戳等辅助工具。本书致力于成为一站式资源整合点，为学习该框架的人员提供便利，涵盖了API文档及其他背景信息，如SVG、JavaScript、DOM，以及HTML canvas元素等。 |
 
 ---
 
