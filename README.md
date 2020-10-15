@@ -1,11 +1,14 @@
 
 <div align="center">
     <img width="350" src="http://febeacon.com/images/febeacon_logo_2.png" /><br />
-    <h1><a href="http://febeacon.com">大笑文档</a></h1><br />
-    <h2>赠人玫瑰，手有余香</h2>
+    <h2>赠人玫瑰，手有余香</h2><br />
 </div>
 
+---
+
 > 希望这些文档能够帮助您，让我们共同进步。另外，如果原始框架的文档有了更新，特别是破坏性的更新或是翻译上有建议或意见，请提 issue，我会尽力更新，文档太多恐不能面面俱到，敬请谅解。这些文档和译著也不是终点，敬请期待。
+
+---
 
 | Logo | 文档名称 | 描述 |
 |:---:|:---:|---|
@@ -24,11 +27,10 @@
 | <img width="75" src="http://febeacon.com/webpack-plugins-docs-cn/images/logo.png" /> | [Webpack 插件](http://febeacon.com/ajv-docs-zh-cn/) | 一些非官方 webpack 插件合集。 |
 | <img width="75" src="http://febeacon.com/yjs-docs-zh-cn/images/logo.png" /> | [Y.js](http://febeacon.com/yjs-docs-zh-cn/index.html) | Y.js 对共享数据进行强大抽象的 CRDT 框架。它是一种 CRDT 实现，将其内部数据暴露为共享类型(shared types)，非常适合做共享文档。 |
 
-<br />
-<br />
+
 ---
-<br />
-<br />
+
+
 
 | 个人译著 | 链接 | 描述 |
 |:---:|---|---|
@@ -37,9 +39,8 @@
 
 ---
 
-如果这些文档能帮助到您，不胜感激。相信别人，感受他人的爱，同时给予他人爱。
+> 如果这些文档能帮助到您，不胜感激。相信别人，感受他人的爱，同时给予他人爱。
 
 <div align="center">
     <img width="350" src="/translated_book/thankyouverymuch.png" /><br />
-    <h1><a href="http://febeacon.com">大笑文档</a></h1><br />
 </div>
