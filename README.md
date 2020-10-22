@@ -21,6 +21,7 @@
 | <img width="75" src="http://febeacon.com/matterjs_docs_zh_cn/images/logo.png" /> | [Matter.js](http://febeacon.com/matterjs_docs_zh_cn/index.html) | Matter.js 是用 JavaScript 编写的 2D 物理引擎。 |
 | <img width="75" src="http://febeacon.com/pagelifecycle_docs_zh_cn/images/logo.png" /> | [PageLifecycle](http://febeacon.com/pagelifecycle_docs_zh_cn/index.html) | PageLifecycle.js 是一个轻量化的 JavaScript 库，它让开发人员能够轻松观察页面生命周期API（Page Lifecycle API）状态的变化而无需担心浏览器的限制。 |
 | <img width="75" src="http://febeacon.com/prompts_docs_cn/images/logo.png" /> | [Prompts](http://febeacon.com/prompts_docs_cn/index.html) | 轻量化, 美观且易于学习的交互式问答库。 |
+| <img width="75" src="http://febeacon.com/protobuf_docs_zh_cn/images/logo.png" /> | [protobuf](http://febeacon.com/protobuf_docs_zh_cn/index.html) | protobuf.js 是由 TypeScript 编写的纯 JavaScript 实现 Protocol Buffers 的框架，支持 node.js 和浏览器。 |
 | <img width="75" src="http://febeacon.com/vue-observe-visibility-docs-cn/images/logo.png" /> | [vue-observe-visibility](http://febeacon.com/vue-observe-visibility-docs-cn/index.html) | 检测元素在页面上变得可见或隐藏的时机（Vue 指令）。 |
 | <img width="75" src="http://febeacon.com/webpack-plugins-docs-cn/images/logo.png" /> | [Webpack 插件](http://febeacon.com/webpack-plugins-docs-cn/index.html) | 一些非官方 webpack 插件合集。 |
 | <img width="75" src="http://febeacon.com/yjs-docs-zh-cn/images/logo.png" /> | [Y.js](http://febeacon.com/yjs-docs-zh-cn/index.html) | Y.js 对共享数据进行强大抽象的 CRDT 框架。它是一种 CRDT 实现，将其内部数据暴露为共享类型(shared types)，非常适合做共享文档。 |
